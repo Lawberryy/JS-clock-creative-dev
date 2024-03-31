@@ -9,3 +9,7 @@ npm run build
 
 npm run dev
 ```
+
+You can access the debug folder by adding #debug in the URL.
+<br>
+Ex: [https://js-clock-creative-dev.vercel.app/#debug](https://js-clock-creative-dev.vercel.app/#debug)
